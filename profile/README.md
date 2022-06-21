@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hi there,
+# Welcome to Codezela Technologies (PVT) LTD! 👋
 
-<!--
+🙋‍♀️ Codezela Technologies is a computer software company based in Western, Sri Lanka. Our clients are diversified throughout the globe. With our professional knowledge and experience, we provide a variety of digital services. Our highly qualified team can handle web design and development, graphic design, digital marketing services at any requirement. Our team consists of developers and designers certified by international companies.
 
-**Here are some ideas to get you started:**
+🌈 Our vision is to provide the most suitable and best development and designing solutions with unmatched customer service. As a company with both SriLankan and an international client base, we are proud to share our customer reviews and let you know the success of their projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 👩‍💻 <i>"Our goal is to be the best and the most reputed company in Sri Lankan Information Technology industry and reach higher globally."</i>
