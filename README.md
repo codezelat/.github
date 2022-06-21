@@ -4,4 +4,4 @@ Codezela Technologies is a computer software company based in Western, Sri Lanka
 
 Our vision is to provide the most suitable and best development and designing solutions with unmatched customer service. As a company with both SriLankan and an international client base, we are proud to share our customer reviews and let you know the success of their projects.
 
-###"Our goal is to be the best and the most reputed company in Sri Lankan Information Technology industry and reach higher globally."
+#### <i>"Our goal is to be the best and the most reputed company in Sri Lankan Information Technology industry and reach higher globally."</i>
