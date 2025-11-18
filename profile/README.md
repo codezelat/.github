@@ -1,8 +1,14 @@
-## Hi there,
-# Welcome to Codezela Technologies! 👋
+## Hello there
 
-🙋‍♀️ Codezela Technologies is a computer software company based in Western, Sri Lanka. Our clients are diversified throughout the globe. With our professional knowledge and experience, we provide various digital services. Our highly qualified team can handle web design and development, graphic design, digital marketing services at any requirement. Our team consists of developers and designers certified by international companies.
+# Welcome to Codezela Technologies 👋
 
-🌈 Our vision is to provide the most suitable & the best development and designing solutions with unmatched customer service. As a company with both SriLankan and an international client base, we are proud to share our customer reviews and let you know the success of their projects.
+Codezela Technologies is a full-scale software and digital innovation company based in the Western Province of Sri Lanka and trusted by clients across the globe. We bring together technical expertise, creative excellence and industry experience to build digital solutions that deliver real results.
 
-#### 👩‍💻 <i>"Our goal is to be the best and the most reputed company in the Sri Lankan Information Technology industry and reach higher globally."</i>
+Our team includes internationally certified developers, designers and digital specialists who create high-performance websites, powerful software applications, brand-focused visuals and data-driven marketing campaigns. From startups to enterprises, we help organisations grow with technology.
+
+🌈 Our vision is to deliver modern, reliable and meaningful digital solutions supported by exceptional customer service and long-term partnership. With both Sri Lankan and international clients, we are proud to share the success stories behind the work we do.
+
+💬 Our aim is to become the most trusted and respected name in Sri Lanka’s information technology industry while expanding our global presence with innovation, excellence and integrity.
+
+🌐 Website: codezela.com
+📧 Email: [info@codezela.com](mailto:info@codezela.com)
