@@ -9,5 +9,5 @@ Our team includes internationally certified developers, designers and digital sp
 
 💬 Our aim is to become the most trusted and respected name in Sri Lanka’s information technology industry while expanding our global presence with innovation, excellence and integrity.
 
-🌐 Website: [codezela.com](https://codezela.com)
+🌐 Website: [codezela.com](https://codezela.com) </br>
 📧 Email: [info@codezela.com](mailto:info@codezela.com)
